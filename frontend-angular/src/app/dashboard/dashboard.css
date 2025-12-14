@@ -1,0 +1,79 @@
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background: linear-gradient(90deg, #6a11cb, #2575fc);
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  border-radius: 0 0 15px 15px;
+}
+
+.navbar .logo {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.navbar nav {
+  display: flex;
+  gap: 15px;
+}
+
+
+.btn {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn i {
+  font-size: 16px;
+}
+
+.btn-add {
+  background: linear-gradient(45deg, #00c6ff, #0072ff);
+}
+
+.btn-add:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.btn-logout {
+  background: linear-gradient(45deg, #ff4e50, #f9d423);
+}
+
+.btn-logout:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+
+.dashboard-content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+  color: #333;
+}
+
+.dashboard-content h1 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.dashboard-content p {
+  font-size: 18px;
+  color: #555;
+}
