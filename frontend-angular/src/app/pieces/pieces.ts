@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { Piece } from '../services/piece'; 
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-pieces',
@@ -13,17 +14,34 @@ import { FormsModule } from '@angular/forms';
 export class Pieces {
   name = '';
 
-  constructor(private pieceService: Piece) {}
+  constructor(
+    private piece: Piece,
+    private router: Router   
+  ) {}
 
   add() {
     if (!this.name) return;
-    this.pieceService.addPiece(this.name).subscribe({
-      next: () => {
+
+    this.piece.addPiece(this.name).subscribe({
+      next: (res: any) => {
         console.log('Pièce ajoutée !');
         this.name = '';
+        const id = res.id;
+        this.router.navigate(['/add-equipement', id])
       },
       error: (err) => console.error(err)
     });
   }
-}
+  goTo(path: string) {
+    this.router.navigate([path]);
+  }
+  logout() {
+   
+    localStorage.removeItem('token');  
 
+ 
+    this.router.navigate(['/login']);
+
+  
+  }
+}

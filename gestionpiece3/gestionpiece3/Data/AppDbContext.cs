@@ -9,5 +9,6 @@ namespace gestionpiece3.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Piece> piece{ get; set; }
+        public DbSet<equipementModel> equipement { get; set; }
     }
 } 

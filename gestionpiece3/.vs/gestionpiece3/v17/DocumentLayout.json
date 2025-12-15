@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\controllers\\piecescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\controllers\\piecescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\services\\pieceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\services\\pieceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\models\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\models\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\services\\pieceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\services\\pieceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\controllers\\piecescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\controllers\\piecescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\controllers\\equipementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\controllers\\equipementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\models\\equipementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\models\\equipementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\services\\symfonyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\gestionpiece3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\gestionpiece3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|c:\\projets\\microservice2\\gestionpiece3\\gestionpiece3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5A83D3-8946-49C8-BC4B-70F20582FC61}|gestionpiece3\\gestionpiece3.csproj|solutionrelative:gestionpiece3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "equipementModel.cs",
+              "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Models\\equipementModel.cs",
+              "RelativeDocumentMoniker": "gestionpiece3\\Models\\equipementModel.cs",
+              "ToolTip": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Models\\equipementModel.cs",
+              "RelativeToolTip": "gestionpiece3\\Models\\equipementModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:33:06.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipementController.cs",
+              "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Controllers\\EquipementController.cs",
+              "RelativeDocumentMoniker": "gestionpiece3\\Controllers\\EquipementController.cs",
+              "ToolTip": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Controllers\\EquipementController.cs",
+              "RelativeToolTip": "gestionpiece3\\Controllers\\EquipementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:11:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AddPieceDto.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\DTO\\AddPieceDto.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\DTO\\AddPieceDto.cs",
@@ -70,12 +104,11 @@
               "RelativeToolTip": "gestionpiece3\\DTO\\AddPieceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T19:38:19.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T19:38:19.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\DTO\\LoginResponse.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\DTO\\LoginResponse.cs",
@@ -83,12 +116,11 @@
               "RelativeToolTip": "gestionpiece3\\DTO\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T15:19:15.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T15:19:15.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Views\\Pieces\\Add.cshtml",
               "RelativeDocumentMoniker": "gestionpiece3\\Views\\Pieces\\Add.cshtml",
@@ -96,38 +128,37 @@
               "RelativeToolTip": "gestionpiece3\\Views\\Pieces\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-13T15:06:46.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T15:06:46.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PiecesController.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Controllers\\PiecesController.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\Controllers\\PiecesController.cs",
               "ToolTip": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Controllers\\PiecesController.cs",
               "RelativeToolTip": "gestionpiece3\\Controllers\\PiecesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T15:04:59.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PieceService.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Services\\PieceService.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\Services\\PieceService.cs",
               "ToolTip": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Services\\PieceService.cs",
               "RelativeToolTip": "gestionpiece3\\Services\\PieceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T15:04:09.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\DTO\\UserDto.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\DTO\\UserDto.cs",
@@ -135,12 +166,11 @@
               "RelativeToolTip": "gestionpiece3\\DTO\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T15:03:25.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T15:03:25.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "SymfonyAuthService.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Services\\SymfonyAuthService.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\Services\\SymfonyAuthService.cs",
@@ -148,8 +178,7 @@
               "RelativeToolTip": "gestionpiece3\\Services\\SymfonyAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T15:01:20.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T15:01:20.173Z"
             },
             {
               "$type": "Document",
@@ -159,14 +188,14 @@
               "RelativeDocumentMoniker": "gestionpiece3\\Program.cs",
               "ToolTip": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Program.cs",
               "RelativeToolTip": "gestionpiece3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T14:56:02.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\appsettings.json",
               "RelativeDocumentMoniker": "gestionpiece3\\appsettings.json",
@@ -174,25 +203,24 @@
               "RelativeToolTip": "gestionpiece3\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-13T14:53:37.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T14:53:37.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Data\\AppDbContext.cs",
               "RelativeToolTip": "gestionpiece3\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T14:53:14.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "gestionpiece3.csproj",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\gestionpiece3.csproj",
               "RelativeDocumentMoniker": "gestionpiece3\\gestionpiece3.csproj",
@@ -200,18 +228,17 @@
               "RelativeToolTip": "gestionpiece3\\gestionpiece3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-13T14:52:44.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T14:52:44.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Piece.cs",
               "DocumentMoniker": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Models\\Piece.cs",
               "RelativeDocumentMoniker": "gestionpiece3\\Models\\Piece.cs",
               "ToolTip": "C:\\Projets\\microservice2\\gestionpiece3\\gestionpiece3\\Models\\Piece.cs",
               "RelativeToolTip": "gestionpiece3\\Models\\Piece.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T14:52:09.777Z",
               "EditorCaption": ""

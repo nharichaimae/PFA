@@ -14,7 +14,7 @@ namespace gestionpiece3.Services
             _context = context;
         }
 
-        public async Task<bool> AddPieceAsync(string name, int userId)
+        public async Task<int> AddPieceAsync(string name, int userId)
         {
             var piece = new Piece
             {
@@ -32,7 +32,7 @@ namespace gestionpiece3.Services
                 Console.WriteLine(ex.InnerException?.Message);
                 throw;
             }
-            return true;
+            return piece.id;
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestionpiece3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8f5139e30c3ccbbc91dabfad57d7b9c3a8b3ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestionpiece3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestionpiece3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

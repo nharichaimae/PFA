@@ -102,3 +102,4 @@ C:\Projets\microservice2\gestionpiece3\gestionpiece3\bin\Debug\net9.0\MySqlConne
 C:\Projets\microservice2\gestionpiece3\gestionpiece3\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Projets\microservice2\gestionpiece3\gestionpiece3\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Projets\microservice2\gestionpiece3\gestionpiece3\obj\Debug\net9.0\gestionp.C854EA64.Up2Date
+C:\Projets\microservice2\gestionpiece3\gestionpiece3\obj\Debug\net9.0\gestionpiece3.sourcelink.json

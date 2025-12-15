@@ -18,8 +18,11 @@ export class LoginComponent {
   constructor(private auth: AuthService, private router: Router) {}
 
   login() {
+    
     this.auth.login(this.email, this.password).subscribe(res => {
       this.auth.saveToken(res.token);
+       const user = res.user;
+        localStorage.setItem('user_id', user.id.toString());
       this.router.navigate(['/dashboard']);
     });
   }
